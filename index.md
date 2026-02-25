@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Debriefing a slightly perturbed Universe"
+---
+
 ## Venue
 
 **Date:** October 5-7, 2026  
