@@ -1,4 +1,4 @@
-# Debriefing 2026
+# Debriefing a slightly perturbed Universe
 
 **Date:** October 5-7, 2026  
 **Location:** Matera, Italy  
