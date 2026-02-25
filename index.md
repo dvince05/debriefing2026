@@ -9,8 +9,7 @@ title: "Debriefing a slightly perturbed Universe"
 **Location:** Matera, Italy  
 
 ## About
-This workshop will focus on early universe cosmology,
-large-scale structure, and dark energy.
+The meeting will bring together friends, collaborators, and colleagues of Adi and Enzo for an informal and stimulating workshop covering a broad range of topics in modern cosmology.
 
 ## Participant list
 - Matthias Bartelmann
