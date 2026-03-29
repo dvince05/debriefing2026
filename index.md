@@ -8,6 +8,9 @@ title: "Debriefing a slightly perturbed Universe"
 **Date:** October 5-7, 2026  
 **Location:** [Palestra Area 8, Matera, Italy](https://www.area8.it/palestra/)
 
+## Getting there
+XXX. For travel arrangements please contact XXX
+
 ## About
 The meeting will bring together friends, collaborators, and colleagues of Adi and Enzo for an informal and stimulating workshop covering a broad range of topics in modern cosmology.
 
