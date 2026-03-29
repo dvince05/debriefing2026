@@ -32,24 +32,28 @@ The meeting will bring together friends, collaborators, and colleagues of Adi an
 - Gigi Guzzo
 - Martin Haehnelt
 - Yehuda Hoffman
-- Mike Hudson
+- Mike Hudson (TBC)
 - Mariana Jaber
 - Guivenere Kauffman
 - Sadegh Kochfar
 - Ofer Lahav
 - Gerard Lemson
 - Noam Libeskind
+- Gary Mamon (TBC)
 - Edoardo Maragliano
 - Federico Marulli
 - Manuela Magliocchetti
 - Sabino Matarrese
 - Roya Mohayaee
+- Lauro Moscardini (TBC)
 - Raeed Mundow
+- Farnik Nikakhtar (TBC)
 - Gabriele Parimbelli
 - Christophe Pichon
 - Cris Porciani
 - Marco Raveri
 - Elena Sarpa
+- Fabian Schmidt (TBC)
 - Emiliano Sefusatti
 - Joe Silk
 - Prabhakar Tiwari
@@ -58,6 +62,7 @@ The meeting will bring together friends, collaborators, and colleagues of Adi an
 - Matteo Viel
 - Simon White
 - Hellwing Wojtek
+- Gustavo Yepes (TBC)
 - Eyal Zamlung
 
 ## Registration
