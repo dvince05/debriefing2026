@@ -14,19 +14,19 @@ The meeting will bring together friends, collaborators, and colleagues of Adi an
 ## Getting there
 Matera is located in southern Italy, in the region of Basilicata. Although it does not have its own major airport, it is relatively easy to reach via nearby transport hubs.
 
-By air:
+**By air:**
 The most convenient airport is Bari Karol Wojtyła Airport (BRI), located about 65 km from Matera. Bari is well connected to several major European cities.
 For intercontinental travelers, it is often convenient to fly into a major international hub such as Rome Fiumicino Airport (FCO) or Milan Malpensa Airport (MXP), and then take a domestic flight or train to Bari.
 
-From Bari to Matera:
+**From Bari to Matera:**
 Shuttle bus: Direct shuttle services connect Bari Airport to Matera in about 1–1.5 hours.
 Train: From Bari city center, you can reach Matera via the regional Ferrovie Appulo Lucane line (separate from the main Italian railway network).
 Taxi: Taxis are available at the airport; travel time is approximately 1 hour.
 
-By train:
+**By train:**
 Matera is not served by the main Italian railway network operated by Trenitalia. The nearest major station is Bari Centrale, from which you can continue to Matera by local train or bus.
 
-By car:
+**By car:**
 Matera can be reached by car from Bari in about one hour. Driving times are approximately 3–4 hours from Naples and 5–6 hours from Rome. Parking is available outside the historic center.
 
 We will provide additional practical details and suggestions closer to the conference dates.
