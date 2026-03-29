@@ -3,6 +3,9 @@ layout: default
 title: "Debriefing a slightly perturbed Universe"
 ---
 
+## About
+The meeting will bring together friends, collaborators, and colleagues of Adi and Enzo for an informal and stimulating workshop covering a broad range of topics in modern cosmology.
+
 ## Venue
 
 **Date:** October 5-7, 2026  
@@ -10,9 +13,6 @@ title: "Debriefing a slightly perturbed Universe"
 
 ## Getting there
 XXX. If you need help with travel arrangements, please contact [The agency email]
-
-## About
-The meeting will bring together friends, collaborators, and colleagues of Adi and Enzo for an informal and stimulating workshop covering a broad range of topics in modern cosmology.
 
 ## Participant list
 - Matthias Bartelmann
