@@ -12,7 +12,7 @@ The meeting will bring together friends, collaborators, and colleagues of Adi an
 **Location:** [Palestra Area 8, Matera, Italy](https://www.area8.it/palestra/)
 
 ## Getting there
-XXX. If you need help with travel arrangements, please contact [The agency email]
+If you need help with travel/accommodation, please contact [Lionetti Travel Agency](https://www.sassiweb.it/)
 
 ## Participant list
 - Matthias Bartelmann
