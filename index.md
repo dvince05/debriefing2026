@@ -11,7 +11,7 @@ The meeting will bring together friends, collaborators, and colleagues of Adi an
 **Date:** October 5-7, 2026  
 **Location:** [Palestra Area 8, Matera, Italy](https://www.area8.it/palestra/)
 
-## Travel information
+## Getting there
 XXX. If you need help with travel arrangements, please contact [The agency email]
 
 ## Participant list
