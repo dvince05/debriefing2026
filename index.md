@@ -66,4 +66,4 @@ The meeting will bring together friends, collaborators, and colleagues of Adi an
 - Eyal Zamlung
 
 ## Registration
-Details coming soon.
+Registration details will be available the week of April 13, 2026
