@@ -77,7 +77,7 @@ If you need help with travel/accommodation, please contact [Lionetti Travel Agen
 - Christophe Pichon
 - Cris Porciani
 - Marco Raveri
-- Ilaria Risso (TBC)
+- Ilaria Risso
 - Elena Sarpa
 - Fabian Schmidt (TBC)
 - Emiliano Sefusatti
