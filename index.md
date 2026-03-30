@@ -63,7 +63,7 @@ If you need help with travel/accommodation, please contact [Lionetti Travel Agen
 - Guivenere Kauffman
 - Sadegh Kochfar
 - Ofer Lahav
-- Gerard Lemson
+- Gerard Lemson (TBC)
 - Noam Libeskind
 - Gary Mamon (TBC)
 - Edoardo Maragliano
