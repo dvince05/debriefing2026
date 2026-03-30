@@ -56,6 +56,7 @@ If you need help with travel/accommodation, please contact [Lionetti Travel Agen
 - Massimo Guidi
 - Gigi Guzzo
 - Martin Haehnelt
+- Wojtek Hellwing
 - Yehuda Hoffman
 - Mike Hudson (TBC)
 - Mariana Jaber
@@ -87,7 +88,6 @@ If you need help with travel/accommodation, please contact [Lionetti Travel Agen
 - Rien Van de Weygaert
 - Matteo Viel
 - Simon White
-- Hellwing Wojtek
 - Gustavo Yepes (TBC)
 - Eyal Zamlung
 
