@@ -95,4 +95,4 @@ If you need help with travel/accommodation, please contact [Lionetti Travel Agen
 - Eyal Zamlung
 
 ## Registration
-The registration fee of 245 EUR covers the conference room rental, coffee breaks, and administrative costs related to registration, including a 5 EUR processing charge. The payment can be carried out [here](https://buy.stripe.com/9B6aEXgiE9Nj4PwbfE9sk01)
+The registration fee of 245 EUR covers the conference room rental, coffee breaks, and administrative costs related to registration, including a 5 EUR processing charge. Payment can be made [here](https://buy.stripe.com/9B6aEXgiE9Nj4PwbfE9sk01)
