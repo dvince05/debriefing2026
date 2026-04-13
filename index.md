@@ -6,6 +6,12 @@ title: "Debriefing a slightly perturbed Universe"
 ## About
 The meeting will bring together friends, collaborators, and colleagues of Adi and Enzo for an informal and stimulating workshop covering a broad range of topics in modern cosmology.
 
+## Registration
+The registration fee of 245 EUR covers the conference room rental, coffee breaks, and administrative costs related to registration, including a 5 EUR processing charge. Payment can be made [here](https://buy.stripe.com/9B6aEXgiE9Nj4PwbfE9sk01).  Please register by 15 June 2026.
+
+## Program
+To be determined.
+
 ## Venue
 
 **Date:** October 5-7, 2026  
@@ -97,5 +103,4 @@ If you need help with travel/accommodation, please contact [Lionetti Travel Agen
 - Gustavo Yepes (TBC)
 - Eyal Zamlung
 
-## Registration
-The registration fee of 245 EUR covers the conference room rental, coffee breaks, and administrative costs related to registration, including a 5 EUR processing charge. Payment can be made [here](https://buy.stripe.com/9B6aEXgiE9Nj4PwbfE9sk01)
+
