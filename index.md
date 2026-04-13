@@ -29,6 +29,9 @@ For intercontinental travelers, it is often convenient to fly into a major inter
 **By train:**
 Matera is not served by the main Italian railway network operated by Trenitalia. The nearest major station is Bari Centrale, from which you can continue to Matera by local train or bus. Alternatively, you can reach Matera directly from Rome and Milan central station with [FrecciaLink](https://www.trenitalia.com/it/frecciarossa/collegamenti-frecciarossa/freccialink-matera.html) (train + bus)
 
+**By bus:**
+From Rome to Matera there is a direct [Flixbus](https://shop.flixbus.it/search?departureCity=40de90ff-8646-11e6-9066-549f350fcb0c&arrivalCity=40e2805d-8646-11e6-9066-549f350fcb0c&route=Roma-Matera&rideDate=04.10.2026&backRideDate=08.10.2026&adult=1&_locale=it&departureCountryCode=IT&arrivalCountryCode=IT&backRide=1&features%5Bfeature.enable_distribusion%5D=1&features%5Bfeature.train_cities_only%5D=0&features%5Bfeature.station_search%5D=0&features%5Bfeature.station_search_recommendation%5D=0&features%5Bfeature.darken_page%5D=1&atb_pdid=73c87871-bdbf-4c65-b8b3-83aee09e61b9&_sp=372c2239-d16a-4027-8e12-ea8db8dd1ccd&_spnuid=992dc4bf-0ce4-4a3c-9945-de10909f1d91_1774918963349) 
+
 **By car:**
 Matera can be reached by car from Bari in about one hour. Driving times are approximately 3–4 hours from Naples and 5–6 hours from Rome. Parking is available outside the historic center.
 
