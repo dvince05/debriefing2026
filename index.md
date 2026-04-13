@@ -3,6 +3,8 @@ layout: default
 title: "Debriefing a slightly perturbed Universe"
 ---
 
+<p style="text-align: justify;">
+
 ## About
 The meeting will bring together friends, collaborators, and colleagues of Adi and Enzo for an informal and stimulating workshop covering a broad range of topics in modern cosmology.
 
@@ -96,3 +98,5 @@ If you need help with travel/accommodation, please contact [Lionetti Travel Agen
 
 ## Registration
 The registration fee of 245 EUR covers the conference room rental, coffee breaks, and administrative costs related to registration, including a 5 EUR processing charge. Payment can be made [here](https://buy.stripe.com/9B6aEXgiE9Nj4PwbfE9sk01)
+
+</p>
