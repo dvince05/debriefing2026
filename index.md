@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="/assets/css/style.css">
-
 ---
 layout: default
 title: "Debriefing a slightly perturbed Universe"
