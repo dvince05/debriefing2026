@@ -33,6 +33,10 @@ Hotels in the town centre and in the Sassi historic distric are very convenientl
 
 [BV Quarry Matera](https://www.bvquarrymatera.com)
 
+[BV Quarry Matera](https://www.bvquarrymatera.com)
+
+[Vetera Matera](https://www.veteramatera.com)
+
 ## Getting there
 Matera is located in southern Italy, in the region of Basilicata. Although it does not have its own major airport, it is relatively easy to reach via nearby transport hubs.
 
