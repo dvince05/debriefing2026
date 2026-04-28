@@ -24,6 +24,8 @@ Matera is a popular destination, especially in Spring and Summer. To avoid high 
 Hotels in the town centre and in the Sassi historic distric are very conveniently located with respect to the conference venue.
 
 [Albergo Italia](https://www.albergoitalia.com)
+[Palazzo Gattini](https://www.guestreservations.com/palazzo-gattini-luxury-hotel/booking?utm_source=google&utm_medium=cpc&utm_campaign=22849656183&gad_source=1&gad_campaignid=22849656183&gbraid=0AAAAADiMQMaMFSirEXB9KrK_g_NhBiTUK&gclid=CjwKCAjwtcHPBhADEiwAWo3sJnWKJOL5C5ZBQCrpbiGQkPci5uz2tQiCKl1C_EN6iLt5JCzLRs9HYRoCG5QQAvD_BwE
+)
 
 ## Getting there
 Matera is located in southern Italy, in the region of Basilicata. Although it does not have its own major airport, it is relatively easy to reach via nearby transport hubs.
