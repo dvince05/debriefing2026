@@ -17,6 +17,12 @@ To be determined.
 **Date:** October 5-7, 2026  
 **Location:** [Palestra Area 8, Matera, Italy](https://www.area8.it/palestra/)
 
+## Accommodation
+
+Matera is a popular destination, especially in Spring and Summer. To avoid high prices, we encourage the interested participants to reserve their own accommodation as soon as possible.
+
+Hotels in the town centre and in the Sassi historic distric are very conveniently located with respect to the conference venue.
+
 ## Getting there
 Matera is located in southern Italy, in the region of Basilicata. Although it does not have its own major airport, it is relatively easy to reach via nearby transport hubs.
 
