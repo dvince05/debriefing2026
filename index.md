@@ -53,6 +53,10 @@ Hotels in the town centre and in the Sassi historic distric are very convenientl
 
 * [Aquatio Cave Luxury Hotel & Spa](https://www.aquatiohotel.com/en/)
 
+* [Palazzo della Fontana](https://www.palazzodellafontana.it)
+
+* [Caveoso Hotel](https://www.caveosohotel.com)
+
 ## Getting there
 Matera is located in southern Italy, in the region of Basilicata. Although it does not have its own major airport, it is relatively easy to reach via nearby transport hubs.
 
