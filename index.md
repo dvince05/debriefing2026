@@ -37,6 +37,12 @@ Hotels in the town centre and in the Sassi historic distric are very convenientl
 
 * [Vetera Matera](https://www.veteramatera.com)
 
+* [Palazzo Viceconte](https://palazzoviceconte.it)
+
+* [Hotel San Domenico al Piano](https://www.hotelsandomenico.it)
+
+* [Hotel Sant'Angelo](http://www.santangelomatera.it)
+
 ## Getting there
 Matera is located in southern Italy, in the region of Basilicata. Although it does not have its own major airport, it is relatively easy to reach via nearby transport hubs.
 
