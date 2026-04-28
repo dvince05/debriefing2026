@@ -43,6 +43,16 @@ Hotels in the town centre and in the Sassi historic distric are very convenientl
 
 * [Hotel Sant'Angelo](http://www.santangelomatera.it)
 
+* [Sextantio](https://www.sextantio.it/legrottedellacivita/matera/)
+
+* [Albergo del Sedile](https://www.albergodelsedile.it)
+
+* [Eurostars Matera La Suite](https://www.eurostarshotels.us/eurostars-matera-la-suite.html)
+
+* [Il Piccolo Albergo Matera](http://www.ilpiccoloalbergo.it)
+
+* [Aquatio Cave Luxury Hotel & Spa](https://www.aquatiohotel.com/en/)
+
 ## Getting there
 Matera is located in southern Italy, in the region of Basilicata. Although it does not have its own major airport, it is relatively easy to reach via nearby transport hubs.
 
