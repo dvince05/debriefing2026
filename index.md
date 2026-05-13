@@ -95,7 +95,6 @@ If you need help with travel/accommodation, please contact [Lionetti Travel Agen
 - Maciek Bilicki
 - Diego Blas
 - Melita Carbone
-- Stephane Charlot
 - Benedetta Ciardi
 - Stefano Cristiani
 - Antonaldo Diaferio
@@ -112,7 +111,6 @@ If you need help with travel/accommodation, please contact [Lionetti Travel Agen
 - Yehuda Hoffman
 - Mike Hudson (TBC)
 - Mariana Jaber
-- Guivenere Kauffman
 - Sadegh Kochfar
 - Ofer Lahav
 - Gerard Lemson (TBC)
