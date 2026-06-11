@@ -123,7 +123,7 @@ If you need help with travel/accommodation, please contact [Lionetti Travel Agen
 - Roya Mohayaee
 - Lauro Moscardini (TBC)
 - Raeed Mundow
-- Farnik Nikakhtar (TBC)
+- Farnik Nikakhtar
 - Gabriele Parimbelli
 - Christophe Pichon
 - Cris Porciani
@@ -132,6 +132,7 @@ If you need help with travel/accommodation, please contact [Lionetti Travel Agen
 - Elena Sarpa
 - Fabian Schmidt (TBC)
 - Emiliano Sefusatti
+- Ravi K Sheth
 - Joe Silk
 - Prabhakar Tiwari
 - Brent Tully
