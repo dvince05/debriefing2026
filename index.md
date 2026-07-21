@@ -91,6 +91,7 @@ If you need help with travel/accommodation, please contact [Lionetti Travel Agen
 ## Participant list
 - Matthias Bartelmann
 - Andrew Benson
+- Mariangela Bernardi
 - Dario Bettoni
 - Maciek Bilicki
 - Diego Blas
