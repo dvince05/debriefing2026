@@ -99,7 +99,7 @@ If you need help with travel/accommodation, please contact [Lionetti Travel Agen
 - Benedetta Ciardi
 - Stefano Cristiani
 - Antonaldo Diaferio
-- Gulia Degni
+- Giulia Degni
 - Amr El Zant
 - Antonio Farina
 - Carlos Frenk
