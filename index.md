@@ -92,55 +92,56 @@ If you need help with travel/accommodation, please contact [Lionetti Travel Agen
 - Matthias Bartelmann
 - Andrew Benson
 - Mariangela Bernardi
-- Dario Bettoni
-- Maciek Bilicki
+<!-- - Dario Bettoni -->
+<!-- - Maciek Bilicki -->
 - Diego Blas
 - Melita Carbone
 - Benedetta Ciardi
 - Stefano Cristiani
+- Vincent Desjacques
 - Antonaldo Diaferio
 - Giulia Degni
 - Amr El Zant
 - Antonio Farina
 - Carlos Frenk
-- Enrique Gaztanaga
+<!-- - Enrique Gaztanaga -->
 - Marat Gilfanov
 - Massimo Guidi
 - Gigi Guzzo
 - Martin Haehnelt
 - Wojtek Hellwing
 - Yehuda Hoffman
-- Mike Hudson (TBC)
+- Mike Hudson
 - Mariana Jaber
 - Sadegh Kochfar
-- Ofer Lahav
+<!-- - Ofer Lahav -->
 - Gerard Lemson (TBC)
 - Noam Libeskind
-- Gary Mamon (TBC)
+<!-- - Gary Mamon -->
 - Edoardo Maragliano
 - Federico Marulli
 - Manuela Magliocchetti
-- Sabino Matarrese
-- Roya Mohayaee
-- Lauro Moscardini (TBC)
+<!-- - Sabino Matarrese -->
+<!-- - Roya Mohayaee -->
+<!-- - Lauro Moscardini -->
 - Raeed Mundow
 - Farnik Nikakhtar
-- Gabriele Parimbelli
-- Christophe Pichon
-- Cris Porciani
+- Gabriele Parimbelli (TBC)
+<!-- - Christophe Pichon -->
+- Cris Porciani (TBC)
 - Isabella Prandoni
-- Marco Raveri
+<!-- - Marco Raveri -->
 - Ilaria Risso
 - Elena Sarpa
-- Fabian Schmidt (TBC)
+<!-- - Fabian Schmidt (TBC) -->
 - Emiliano Sefusatti
 - Ravi K Sheth
 - Joe Silk
 - Prabhakar Tiwari
 - Brent Tully
-- Rien Van de Weygaert
-- Matteo Viel
-- Gustavo Yepes (TBC)
+<!-- - Rien Van de Weygaert -->
+<!-- - Matteo Viel -->
+<!-- - Gustavo Yepes -->
 - Eyal Zamlung
 
 
