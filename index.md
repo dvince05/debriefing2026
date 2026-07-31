@@ -128,6 +128,7 @@ If you need help with travel/accommodation, please contact [Lionetti Travel Agen
 - Gabriele Parimbelli
 - Christophe Pichon
 - Cris Porciani
+- Isabella Prandoni
 - Marco Raveri
 - Ilaria Risso
 - Elena Sarpa
@@ -139,7 +140,6 @@ If you need help with travel/accommodation, please contact [Lionetti Travel Agen
 - Brent Tully
 - Rien Van de Weygaert
 - Matteo Viel
-- Simon White
 - Gustavo Yepes (TBC)
 - Eyal Zamlung
 
