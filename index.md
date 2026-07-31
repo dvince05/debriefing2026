@@ -101,7 +101,7 @@ If you need help with travel/accommodation, please contact [Lionetti Travel Agen
 - Vincent Desjacques
 - Antonaldo Diaferio
 - Giulia Degni
-- Amr El Zant
+- Amr El Zant (TBC)
 - Antonio Farina
 - Carlos Frenk
 <!-- - Enrique Gaztanaga -->
