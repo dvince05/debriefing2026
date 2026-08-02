@@ -140,7 +140,7 @@ If you need help with travel/accommodation, please contact [Lionetti Travel Agen
 - Prabhakar Tiwari
 - Brent Tully
 <!-- - Rien Van de Weygaert -->
-<!-- - Matteo Viel -->
+- Matteo Viel (TBC)
 <!-- - Gustavo Yepes -->
 - Eyal Zamlung
 
