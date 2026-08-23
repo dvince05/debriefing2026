@@ -128,7 +128,7 @@ If you need help with travel/accommodation, please contact [Lionetti Travel Agen
 - Farnik Nikakhtar
 - Gabriele Parimbelli (TBC)
 <!-- - Christophe Pichon -->
-- Cris Porciani (TBC)
+- Cris Porciani
 - Isabella Prandoni
 <!-- - Marco Raveri -->
 - Ilaria Risso
@@ -140,7 +140,7 @@ If you need help with travel/accommodation, please contact [Lionetti Travel Agen
 - Prabhakar Tiwari
 - Brent Tully
 <!-- - Rien Van de Weygaert -->
-- Matteo Viel (TBC)
+- Matteo Viel
 <!-- - Gustavo Yepes -->
 - Eyal Zamlung
 
