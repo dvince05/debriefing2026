@@ -10,7 +10,7 @@ The meeting will bring together friends, collaborators, and colleagues of Adi an
 The registration fee of 245 EUR covers the conference room rental, coffee breaks, the conference dinner (Tuesday Oct 6) and administrative costs related to registration, including a 5 EUR processing charge. Payment can be made [<u>here</u>](https://buy.stripe.com/9B6aEXgiE9Nj4PwbfE9sk01). No separate registration form is required (payment serves as registration). Please register by July 1st, 2026.
 
 ## Program
-To be determined.
+To be announced.
 
 ## Venue
 
