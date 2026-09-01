@@ -114,7 +114,7 @@ If you need help with travel/accommodation, please contact [Lionetti Travel Agen
 - Mike Hudson
 - Mariana Jaber
 - Sadegh Kochfar
-- Ofer Lahav (TBC)
+- Ofer Lahav
 - Gerard Lemson (TBC)
 - Noam Libeskind
 <!-- - Gary Mamon -->
