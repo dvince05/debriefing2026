@@ -121,7 +121,7 @@ If you need help with travel/accommodation, please contact [Lionetti Travel Agen
 - Edoardo Maragliano
 - Federico Marulli
 - Manuela Magliocchetti
-<!-- - Sabino Matarrese -->
+- Sabino Matarrese
 <!-- - Roya Mohayaee -->
 <!-- - Lauro Moscardini -->
 - Raeed Mundow
