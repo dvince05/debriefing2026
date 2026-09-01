@@ -135,7 +135,7 @@ If you need help with travel/accommodation, please contact [Lionetti Travel Agen
 - Elena Sarpa
 <!-- - Fabian Schmidt (TBC) -->
 - Emiliano Sefusatti
-- Ravi K Sheth
+- Ravi Sheth
 - Joe Silk
 - Prabhakar Tiwari
 - Brent Tully
