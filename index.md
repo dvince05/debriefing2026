@@ -133,7 +133,7 @@ If you need help with travel/accommodation, please contact [Lionetti Travel Agen
 <!-- - Marco Raveri -->
 - Ilaria Risso
 - Elena Sarpa
-<!-- - Fabian Schmidt (TBC) -->
+- Fabian Schmidt
 - Emiliano Sefusatti
 - Ravi Sheth
 - Joe Silk
