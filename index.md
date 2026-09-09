@@ -101,7 +101,7 @@ If you need help with travel/accommodation, please contact [Lionetti Travel Agen
 - Vincent Desjacques
 - Antonaldo Diaferio
 - Giulia Degni
-- Amr El Zant (TBC)
+<!-- - Amr El Zant -->
 - Antonio Farina
 - Carlos Frenk
 <!-- - Enrique Gaztanaga -->
@@ -115,7 +115,7 @@ If you need help with travel/accommodation, please contact [Lionetti Travel Agen
 - Mariana Jaber
 - Sadegh Kochfar
 - Ofer Lahav
-- Gerard Lemson (TBC)
+<!-- - Gerard Lemson -->
 - Noam Libeskind
 <!-- - Gary Mamon -->
 - Edoardo Maragliano
@@ -126,7 +126,7 @@ If you need help with travel/accommodation, please contact [Lionetti Travel Agen
 <!-- - Lauro Moscardini -->
 - Raeed Mundow
 - Farnik Nikakhtar
-- Gabriele Parimbelli (TBC)
+<!-- - Gabriele Parimbelli -->
 <!-- - Christophe Pichon -->
 - Cris Porciani
 - Isabella Prandoni
