@@ -123,6 +123,7 @@ If you need help with travel/accommodation, please contact [Lionetti Travel Agen
 - Manuela Magliocchetti
 - Sabino Matarrese
 <!-- - Roya Mohayaee -->
+- Pierluigi Monaco
 <!-- - Lauro Moscardini -->
 - Raeed Mundow
 - Farnik Nikakhtar
