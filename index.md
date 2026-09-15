@@ -90,7 +90,7 @@ We will provide additional practical details and suggestions closer to the confe
 
 If you need help with travel/accommodation, please contact [Lionetti Travel Agency](https://www.sassiweb.it/)
 
-For any other questions or issues, please contact the organizers, Vincent Desjacques and Ravi K. Sheth.
+For any other questions or issues, please contact the organizers, Vincent Desjacques and Ravi Sheth.
 
 ## Participant list
 - Matthias Bartelmann
