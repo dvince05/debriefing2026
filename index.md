@@ -6,6 +6,10 @@ title: "Debriefing a slightly perturbed Universe"
 ## About
 The meeting will bring together friends, collaborators, and colleagues of Adi and Enzo for an informal and stimulating workshop covering a broad range of topics in modern cosmology.
 
+## Organizers
+
+Vincent Desjacques and Ravi Sheth
+
 ## Registration
 The registration fee of 245 EUR covers the conference room rental, coffee breaks, the conference dinner (Tuesday Oct 6) and administrative costs related to registration, including a 5 EUR processing charge. Payment can be made [<u>here</u>](https://buy.stripe.com/9B6aEXgiE9Nj4PwbfE9sk01). No separate registration form is required (payment serves as registration). Please register by July 1st, 2026.
 
