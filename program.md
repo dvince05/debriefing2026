@@ -31,7 +31,7 @@ Unless otherwise indicated, each presentation consists of **15 minutes of talk +
 | **15:20–16:00** | ☕ **Coffee break**              |
 | 16:00–16:20     | **Edoardo Maragliano** |
 | 16:20–16:40     | **Raeed Mundow** |
-| **17:00–...**   | **Spritz**                  |
+| **17:00–...**   | 🍹 **Spritz**                  |
 
 ---
 
