@@ -17,8 +17,7 @@ Unless otherwise indicated, each presentation consists of **15 minutes of talk +
 
 | Time            | Program                         |
 | :-------------- | :------------------------------ |
-| **09:00–09:30** | **Registration & coffee**       |
-| **09:30–09:40** | **Welcome & introduction**      |
+| **09:20–09:40** | **Welcome & introduction**      |
 | 09:40–10:00     | **Speaker Name** — *Talk title* |
 | 10:00–10:20     | **Speaker Name** — *Talk title* |
 | 10:20–10:40     | **Speaker Name** — *Talk title* |
