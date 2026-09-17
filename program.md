@@ -3,6 +3,8 @@ layout: default
 title: "Program — Debriefing a slightly perturbed Universe"
 ---
 
+# Talk format
+
 Each presentation is **15+5mn**
 
 ---
