@@ -3,8 +3,6 @@ layout: default
 title: "Program — Debriefing a slightly perturbed Universe"
 ---
 
-# Program
-
 Each presentation is **15+5mn**
 
 ---
