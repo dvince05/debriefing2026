@@ -13,7 +13,7 @@ Each presentation is **15+5mn**
 
 | Time            | Program                         |
 | :-------------- | :------------------------------ |
-| **09:20 – 09:40** | **Welcome & introduction**      |
+| **09:30 – 09:40** | **Welcome & introduction**      |
 | 09:40 – 10:00     | **Gigi Guzzo** |
 | 10:00 – 10:20     | **Yehuda Hoffman**  |
 | 10:20 – 10:40     | **Wojtek Hellwing**  |
