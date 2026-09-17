@@ -72,7 +72,7 @@ Unless otherwise indicated, each presentation consists of **15 minutes of talk +
 | **15:20 – 16:00** | ☕ **Coffee break**              |
 | 16:00 – 16:20     | **Diego Blas** |
 | 16:20 – 16:40     | **Eyal Zamlung** |
-| 16:40 - 17:00.    | **Conclusions** |
+| 16:40 - 17:00     | **Looking back & ahead** |
 | **17:00 - 19:00**   | 🍹 **Spritz**                  |
 
 ---
