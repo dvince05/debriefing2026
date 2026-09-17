@@ -18,9 +18,9 @@ Unless otherwise indicated, each presentation consists of **15 minutes of talk +
 | Time            | Program                         |
 | :-------------- | :------------------------------ |
 | **09:20–09:40** | **Welcome & introduction**      |
-| 09:40–10:00     | **Speaker Name** — *Talk title* |
-| 10:00–10:20     | **Speaker Name** — *Talk title* |
-| 10:20–10:40     | **Speaker Name** — *Talk title* |
+| 09:40–10:00     | **Gigi Guzzo** |
+| 10:00–10:20     | **Yehuda Hoffman**  |
+| 10:20–10:40     | **Wojtek Hellwing**  |
 | **10:40–11:10** | ☕ **Coffee break**              |
 | 11:10–11:30     | **Speaker Name** — *Talk title* |
 | 11:30–11:50     | **Speaker Name** — *Talk title* |
