@@ -5,7 +5,7 @@ title: "Program — Debriefing a slightly perturbed Universe"
 
 # Program
 
-Each presentation consists of **15 minutes of talk + 5 minutes of questions**.
+Each presentation is **15+5mn**
 
 ---
 
