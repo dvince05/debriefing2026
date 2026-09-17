@@ -39,12 +39,12 @@ Unless otherwise indicated, each presentation consists of **15 minutes of talk +
 
 | Time            | Program                         |
 | :-------------- | :------------------------------ |
-| 09:40 – 10:00     | **Gigi Guzzo** |
-| 10:00 – 10:20     | **Yehuda Hoffman**  |
-| 10:20 – 10:40     | **Wojtek Hellwing**  |
+| 09:40 – 10:00     | **Carlos Frenk** |
+| 10:00 – 10:20     | **Stefano Cristiani**  |
+| 10:20 – 10:40     | **Marat Gilfanov**  |
 | **10:40 – 11:40** | ☕ **Coffee break**              |
-| 11:40 – 12:00     | **Mike Hudson** |
-| 12:00 – 12:20     | **Prabhakar Tiwari** |
+| 11:40 – 12:00     | **Sadegh Kochfar** |
+| 12:00 – 12:20     | **Manuela Magliocchetti** |
 | **12:20 – 14:20** | 🍴 **Lunch**                    |
 | 14:20 – 14:40     | **Brent Tully** |
 | 14:40 – 15:00     | **Elena Sarpa** |
