@@ -5,11 +5,7 @@ title: "Program — Debriefing a slightly perturbed Universe"
 
 # Program
 
-## Debriefing a slightly perturbed Universe
-
-**Matera, Italy · October 5–7, 2026**
-
-Unless otherwise indicated, each presentation consists of **15 minutes of talk + 5 minutes of questions and discussion**.
+Each presentation consists of **15 minutes of talk + 5 minutes of questions**.
 
 ---
 
@@ -77,6 +73,3 @@ Unless otherwise indicated, each presentation consists of **15 minutes of talk +
 
 ---
 
-### Talk format
-
-Talks are **15 minutes followed by 5 minutes for questions and discussion**.
