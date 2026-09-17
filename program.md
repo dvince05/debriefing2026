@@ -50,9 +50,8 @@ Unless otherwise indicated, each presentation consists of **15 minutes of talk +
 | 14:40 – 15:00     | **Martin Haehnelt** |
 | 15:00 – 15:20     | **Matteo Viel**  |
 | **15:20 – 16:00** | ☕ **Coffee break**              |
-| 16:00 – 16:20     | **Edoardo Maragliano** |
-| 16:20 – 16:40     | **Raeed Mundow** |
-| **19:30–22:30** | 🍽️ **Conference dinner** |
+| 16:00 – 19:00     | **Free time** |
+| **19:30 – 22:30** | 🍽️ **Conference dinner** |
 
 ---
 
