@@ -117,7 +117,7 @@ For any other questions or issues, please contact the organizers, Vincent Desjac
 - Yehuda Hoffman
 - Mike Hudson
 - Mariana Jaber
-- Sadegh Kochfar
+<!-- - Sadegh Kochfar -->
 - Ofer Lahav
 <!-- - Gerard Lemson -->
 - Noam Libeskind
@@ -135,7 +135,7 @@ For any other questions or issues, please contact the organizers, Vincent Desjac
 <!-- - Christophe Pichon -->
 - Cris Porciani
 - Isabella Prandoni
-<!-- - Marco Raveri -->
+- Marco Raveri
 - Ilaria Risso
 - Elena Sarpa
 - Fabian Schmidt
