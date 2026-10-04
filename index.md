@@ -15,7 +15,7 @@ The detailed conference program is available [<u>here</u>](program).
 ## Venue
 
 **Date:** October 5-7, 2026  
-**Location:** [Palestra Area 8, Matera, Italy](https://www.area8.it/palestra/)
+**Location:** [Palestra di Area 8, Via XX Settembre 14, Matera, Italy](https://www.area8.it/palestra/)
 
 ## Accommodation
 
