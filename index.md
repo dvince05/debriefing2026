@@ -19,7 +19,7 @@ The detailed conference program is available [<u>here</u>](program).
 
 ## Conference Dinner
 
-To be updated.
+The dinner will take place at [Osteria al Casale](https://www.osterialcasale.it).
 
 ## Accommodation
 
