@@ -17,6 +17,10 @@ The detailed conference program is available [<u>here</u>](program).
 **Date:** October 5-7, 2026  
 **Location:** [Palestra di Area 8, Via XX Settembre 14, Matera, Italy](https://www.area8.it/palestra/)
 
+## Conference Dinner
+
+To be updated.
+
 ## Accommodation
 
 Matera is a popular destination, especially in Spring and Summer. To avoid high prices, we encourage the interested participants to reserve their own accommodation as soon as possible.
