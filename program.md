@@ -39,7 +39,7 @@ Each presentation is **15+5mn**
 | 10:00 – 10:20     | **Stefano Cristiani**  |
 | 10:20 – 10:40     | **Marat Gilfanov**  |
 | **10:40 – 11:40** | ☕ **Coffee break**              |
-| 11:40 – 12:00     | **Sadegh Kochfar** |
+| 11:40 – 12:00     | **Cris Porciani** |
 | 12:00 – 12:20     | **Manuela Magliocchetti** |
 | **12:20 – 14:20** | 🍴 **Lunch**                    |
 | 14:20 – 14:40     | **Joe Silk** |
